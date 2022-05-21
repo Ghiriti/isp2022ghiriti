@@ -1,0 +1,34 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+/curs1/target/
+/curs2/target/
+/rs4/target/
+/car-parking/target/
+/curs-2-satumare/target/
+/air-ticket-reservation/target/
+/curs-exceptii/target/
+/demo-ui-2022-cj/target/
+/CursThreads/target/
+/CarControl/target/
+/elevator-app/target/
